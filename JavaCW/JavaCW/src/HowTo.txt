@@ -1,0 +1,14 @@
+How to play!
+
+
+Win by having the most discs on the board by the end of the game
+
+Start by having 4 discs in the center. Diagonal colours.
+
+
+
+FLANK:
+
+   Lets imagine we are black. If we place a disc and there are white discs between the placed disc and
+   another one of our discs, then we can flip the discs that are in between the blacks. Same goes for the white player
+   vice versa situation.
